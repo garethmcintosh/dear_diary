@@ -73,7 +73,7 @@ def main():
 
             # Check if an entry for today already exists
             if check_entry_exists(today, "diary"):
-                entry = input("You have already entered a diary entry for today. Enter 47 to override or press any other key to exit.\n")
+                entry = input("You have already entered a diary entry for today. Enter 47 to override or press any other key to continue.\n")
                 if entry != "47":
                     continue
 
