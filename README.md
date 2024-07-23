@@ -3,15 +3,13 @@ This Python script allows you to create an encrypted diary entry for each day an
 
 ## Requirements
 * Python 3.x
-* cryptography library (pip install cryptography)
+* cryptography library
 
 ## Usage
 Make sure you have Python installed on your system. If not, you can download it from the official Python website (https://www.python.org/downloads/).
 
 Install the required cryptography library using the following command:
 ```pip install cryptography```
-
-Copy and paste the script into a Python file (e.g., encrypted_diary.py).
 
 Run the script using the following command:
 ```python encrypted_diary.py```
